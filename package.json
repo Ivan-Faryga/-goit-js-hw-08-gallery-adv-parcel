@@ -1,0 +1,23 @@
+{
+  "name": "-goit-js-hw-08-gallery-adv-parcel",
+  "version": "1.0.0",
+  "description": "js-08-parcel-build",
+  "main": "index.js",
+  "scripts": {
+     "dev": "parcel src/index.html",
+     "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Faryga/-goit-js-hw-08-gallery-adv-parcel.git"
+  },
+  "author": "Ivan Faryga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Faryga/-goit-js-hw-08-gallery-adv-parcel/issues"
+  },
+  "homepage": "https://github.com/Ivan-Faryga/-goit-js-hw-08-gallery-adv-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
